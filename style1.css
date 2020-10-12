@@ -1,0 +1,12 @@
+.navbar1 ul {
+    list-style: none;
+    margin-left: 35px;
+}
+.navbar1 a {
+    text-decoration: none;
+    padding-right: 5px;
+} 
+navbar1 li {
+    display: inline-block;
+    margin-top: 10px;
+}
