@@ -1,5 +1,13 @@
 .parentA{
     background-color: #293F50;
+    /* margin-bottom: 7%; */
+    width: 60%;
+    padding-left: 20%;
+    padding-right: 20%;
+}
+
+.parentB{
+    margin-bottom: 7%;
     width: 60%;
     padding-left: 20%;
     padding-right: 20%;
