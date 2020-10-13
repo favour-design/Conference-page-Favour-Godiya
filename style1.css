@@ -6,6 +6,24 @@
     padding-right: 20%;
 }
 
+.navbarA{
+    padding-left: 60%;
+    margin: 6%;
+}
+.navbarA li{
+    color: white;
+    display: inline-block;
+    margin: 4%;
+    margin-top: 0%;
+    text-decoration: none;
+    color: white;
+}
+
+.navbarA a{
+    text-decoration: none;
+    color: white;
+}
+
 .parentB{
     background-color: #a1d3b0;
     margin-bottom: 7%;
