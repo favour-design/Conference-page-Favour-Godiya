@@ -15,7 +15,6 @@
     padding-top: 3%;
     color: white;
     width: 7%;
-    font-family: ;
     
 }
 
@@ -27,23 +26,23 @@
 }
 
 .navbarA{
-    padding-left: 63%;
+    padding-left: 60%;
     margin: 6%;
 }
 .navbarA li{
     color: white;
     display: inline-block;
-    margin: 3%;
+    margin: 4%;
     margin-top: 0%;
-    /* font-style: none;
-    color: white; */
-
+    text-decoration: none;
+    color: white;
 }
 
-/* .extra{
-    text-align: center;
-    padding-left: 20%;
-} */
+.navbarA a{
+    text-decoration: none;
+    color: white;
+}
+
 
 .craft{
     color: #648880;
@@ -90,15 +89,24 @@
     padding-bottom: 1%;
 }
 
-.title{
+/* .title{
     color: #648880;
+    padding-top: 3%;
     /* font-family: Lato, "Open Sans", "Helvetica Neue", Arial, Helvetica, sans-serif;
     font-style: Lato; */
 
+/* } */ 
+
+.title a{
+    text-decoration: none;
+    color: #648880;
+    padding-top: 3%;
 }
 
 .word{
-    color: #648880;
+    padding-top: 10%;
+    margin-bottom: 25%;
+    width: 80%;
     /* font-family: Lato, "Open Sans", "Helvetica Neue", Arial, Helvetica, sans-serif;
     font-style: Lato; */
 
@@ -114,8 +122,25 @@
 
 }
 
-.navbarC li{
+.con{
+    background-color: #293F50
+}
+
+.navB{
+    padding-left: 63%;
+    margin: 6%;
+}
+.navB li{
     color: white;
     display: inline-block;
+    margin: 3%;
+    margin-top: 0%;
+    /* font-style: none;
+    color: white; */
+}
 
+.navB a{
+    text-decoration: none;
+    color: white;
+    padding-top: 3%;
 }
