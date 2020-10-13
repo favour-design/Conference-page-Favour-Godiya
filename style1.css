@@ -21,17 +21,22 @@
     padding-top: 3%;
     color: white;
     width: 7%;
+    font-size: 40px;
+    font-weight: lighter;
+    line-height: 1;
 } 
 
 .date{
-    margin-left: 45%;
+    margin-left: 38%;
     color: #648880;
     padding-bottom: 1%;
+    font-weight: lighter;
 }
 
 .navbarA{
-    margin-left: 40%;
+    margin-left: 35.5%;
     margin-bottom: 0;
+    font-size: 14px;
 }
 
 .navbarA li{
@@ -60,11 +65,15 @@
 .reg{
     padding-top: 4%;
     padding-bottom: 2%;
+    font-weight: lighter;
+
 }
 
 .every{
-    width: 70%;
+    width: 88%;
     padding-left: 15%;
+    font-weight: lighter;
+    line-height: 2;
     
 }
 .parentC{
@@ -81,11 +90,14 @@
 
 .purchase{
     margin-bottom: 2%;
+    font-weight: normal;
+    font-size: 20px;
 }
 
 .pass{
     margin-bottom: 5%;
     color: #648880;
+    font-size: 12px;
 }
 
 .order{
@@ -112,13 +124,32 @@
 
 }
 
-.box,
-.boxA{
+.box{
     padding: 3%;
     padding-right: 40%;
     margin-bottom: 10%;
 }
 
+.boxA{
+    padding: 3%;
+    padding-right: 40%;
+    margin-bottom: 8%;
+}
+
+.button{
+    font-size: 14px;
+    padding-left: 6%;
+    padding-right: 6%;
+    padding-top: 3%;
+    padding-bottom: 3%;
+    color: white;
+    background-color:#648880;
+    border: none;
+    border-radius: 5px;
+    margin-bottom: 15%;
+    /* border-radius: 1px #648880; */
+
+}
 .parentD{
     background-color: #293F50;
     width: 50%;
@@ -140,6 +171,7 @@
     display: flex;
     justify-content: space-between;
     width: 120%;
+    font-size: 12px;
 }
 
  .navbarB li{
