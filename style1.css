@@ -147,9 +147,14 @@
     border: none;
     border-radius: 5px;
     margin-bottom: 15%;
+    
     /* border-radius: 1px #648880; */
 
 }
+.button:hover {
+    background-color: #729991;
+}
+
 .parentD{
     background-color: #293F50;
     width: 50%;
