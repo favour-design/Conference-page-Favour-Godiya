@@ -30,7 +30,7 @@
 
 .child{
     align-self: flex-end;
-    width: 25%;
+    width: 60%;
 }
 
 .style{
@@ -44,6 +44,8 @@
 .navbarA ul{
    display: flex;
    justify-content: space-between;
+   width: 50%;
+   padding-left: 30%;
 }
 .navbarA li{
     text-decoration: none;
@@ -65,7 +67,7 @@
     color: white;
     width: 70%;
     text-align: center;
-    padding-left: 12%;
+    padding-left: 15%;
     margin: 2%;
     line-height: 200%;
     font-weight: normal;
@@ -75,11 +77,11 @@
 .reg{
     margin-left: 0%;
     padding: 2%;
-    background-color: none;
-    color: #648880;
+    background-color: #293F50;
+    color: white;
     margin-bottom: 7%;
-
-    /* margin: #648880; */
+    border: 1px solid white;
+    border-radius: 5px;
 }
 
 .parentB{
@@ -115,14 +117,14 @@
     padding-top: 10%;
     margin-bottom: 25%;
     width: 80%;
+    line-height: 1.5;
 }
 
 .parentC{
     background-color: #293F50;
-    margin-bottom: 7%;
-    width: 60%;
+    width: 50%;
     padding-left: 20%;
-    padding-right: 20%;
+    padding-right: 30%;
     text-decoration: none;
     display: flex;
     justify-content: space-between;
@@ -138,7 +140,7 @@
 .navB ul{
     display: flex;
     justify-content: space-between;
-    width: 120%;
+    width: 150%;
 }
 
  .navB li{
