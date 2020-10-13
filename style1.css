@@ -9,21 +9,26 @@
     /* text-align: center; */
 }
 
-.style{
+.child{
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    margin-top: 5%;
+}
+
+/* .style{
     padding-left: 0%;
     padding-right: 50%;
     padding-top: 3%;
     color: white;
     width: 7%;
-    
-}
+} 
 
 .date{
     margin-left: 72%;
-    margin-bottom: 3%;
     color: #648880;
-    
-}
+    padding-bottom: 1%;
+} */
 
 .navbarA{
     padding-left: 60%;
