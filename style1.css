@@ -6,12 +6,28 @@
     padding-right: 20%;
 }
 
+.style{
+    padding-left: 0%;
+    padding-right: 50%;
+    padding-top: 3%;
+    color: white;
+    width: 7%;
+    
+}
+
+.date{
+    margin-left: 72%;
+    margin-bottom: 3%;
+    color: #648880;
+}
+
 .navbarA{
     padding-left: 60%;
     margin: 6%;
+    margin-bottom: 0;
 }
+
 .navbarA li{
-    color: white;
     display: inline-block;
     margin: 4%;
     text-decoration: none;
@@ -20,7 +36,7 @@
 
 .navbarA a{
     text-decoration: none;
-    color: whitgie;
+    color: white;
 }
 
 .parentB{
@@ -29,6 +45,8 @@
     width: 60%;
     padding-left: 20%;
     padding-right: 20%;
+    text-align: center;
+    color: #648880;
 }
 
 .parentC{
@@ -77,10 +95,6 @@
     padding: 3%;
     padding-right: 40%;
     margin-bottom: 10%;
-}
-
-.boxA{
-    padding-bottom: 20%;
 }
 
 .parentD{
