@@ -24,7 +24,7 @@
 } 
 
 .date{
-    margin-left: 52%;
+    margin-left: 45%;
     color: #648880;
     padding-bottom: 1%;
 }
@@ -72,6 +72,7 @@
     width: 60%;
     padding-left: 20%;
     padding-right: 20%;
+    color: #888888;
 }
 
 .first{
@@ -119,15 +120,14 @@
     padding: 3%;
     padding-right: 40%;
     margin-bottom: 10%;
-    border-radius: 3px;
     /* border: 1px; */
 }
 
 .parentD{
     background-color: #293F50;
-    width: 50%;
+    width: 55%;
     padding-left: 20%;
-    padding-right: 30%;
+    padding-right: 25%;
     text-decoration: none;
     display: flex;
     justify-content: space-between;
