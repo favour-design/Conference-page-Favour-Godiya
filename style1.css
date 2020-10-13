@@ -14,14 +14,13 @@
     color: white;
     display: inline-block;
     margin: 4%;
-    margin-top: 0%;
     text-decoration: none;
     color: white;
 }
 
 .navbarA a{
     text-decoration: none;
-    color: white;
+    color: whitgie;
 }
 
 .parentB{
@@ -91,4 +90,8 @@
     padding-right: 20%;
     background-color: #293F50;
     margin-top: 10%;
+}
+.navbarA{
+    padding-left: 60%;
+    margin: 6%;
 }
