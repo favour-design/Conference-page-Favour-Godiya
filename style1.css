@@ -91,7 +91,19 @@
     background-color: #293F50;
     margin-top: 10%;
 }
-.navbarA{
-    padding-left: 60%;
+.navbarB{
+    padding-left: 50%;
     margin: 6%;
+}
+
+.navbarB li{
+    color: white;
+    display: inline-block;
+    /* margin: 3%; */
+}
+
+.navbarB a{
+    text-decoration: none;
+    color: white;
+    padding-top: 3%;
 }
