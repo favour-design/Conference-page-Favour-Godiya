@@ -4,19 +4,17 @@
     width: 60%;
     padding-left: 20%;
     padding-right: 20%;
-    /* display: flex; */
-    /* padding-bottom: 23%; */
-    /* text-align: center; */
+    padding-bottom: 2%;
+    text-align: center; 
 }
 
-.child{
+.childA{
     display: flex;
-    flex-direction: column;
-    width: 50%;
-    margin-top: 5%;
+    margin-bottom: 10%;
+    margin-top: 1%;
 }
 
-/* .style{
+.style{
     padding-left: 0%;
     padding-right: 50%;
     padding-top: 3%;
@@ -25,29 +23,37 @@
 } 
 
 .date{
-    margin-left: 72%;
+    margin-bottom: 1rem;
     color: #648880;
-    padding-bottom: 1%;
-} */
+    padding-left: 9%;
+} 
 
-.navbarA{
-    padding-left: 60%;
-    margin: 6%;
+.child{
+    align-self: flex-end;
+    width: 25%;
+}
+
+.style{
+    padding-left: 0%;
+    padding-right: 50%;
+    padding-top: 3%;
+    color: white;
+    width: 7%;
+} 
+
+.navbarA ul{
+   display: flex;
+   justify-content: space-between;
 }
 .navbarA li{
-    color: white;
-    display: inline-block;
-    margin: 4%;
-    margin-top: 0%;
     text-decoration: none;
-    color: white;
+    list-style-type: none;
 }
 
 .navbarA a{
     text-decoration: none;
     color: white;
 }
-
 
 .craft{
     color: #648880;
@@ -67,7 +73,7 @@
 }
 
 .reg{
-    margin-left: 40%;
+    margin-left: 0%;
     padding: 2%;
     background-color: none;
     color: #648880;
@@ -94,13 +100,10 @@
     padding-bottom: 1%;
 }
 
-/* .title{
+.title{
     color: #648880;
     padding-top: 3%;
-    /* font-family: Lato, "Open Sans", "Helvetica Neue", Arial, Helvetica, sans-serif;
-    font-style: Lato; */
-
-/* } */ 
+} 
 
 .title a{
     text-decoration: none;
@@ -112,9 +115,6 @@
     padding-top: 10%;
     margin-bottom: 25%;
     width: 80%;
-    /* font-family: Lato, "Open Sans", "Helvetica Neue", Arial, Helvetica, sans-serif;
-    font-style: Lato; */
-
 }
 
 .parentC{
@@ -124,6 +124,10 @@
     padding-left: 20%;
     padding-right: 20%;
     text-decoration: none;
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 3%;
+    padding-top: 3%;
 
 }
 
@@ -131,8 +135,23 @@
     color: #648880;
 }
 
-.navB{
-    padding-left: 63%;
+.navB ul{
+    display: flex;
+    justify-content: space-between;
+    width: 120%;
+ }
+ .navB li{
+     text-decoration: none;
+     list-style-type: none;
+ }
+ 
+ .navB a{
+     text-decoration: none;
+     color: white;
+ }
+
+/* .navB{
+    padding-left: 40%;
     margin: 6%;
 }
 .navB li{
@@ -144,8 +163,8 @@
     color: white; */
 }
 
-.navB a{
+/* .navB a{
     text-decoration: none;
     color: white;
     padding-top: 3%;
-}
+} */
