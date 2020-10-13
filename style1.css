@@ -139,32 +139,14 @@
     display: flex;
     justify-content: space-between;
     width: 120%;
- }
+}
+
  .navB li{
      text-decoration: none;
      list-style-type: none;
- }
+}
  
  .navB a{
      text-decoration: none;
      color: white;
- }
-
-/* .navB{
-    padding-left: 40%;
-    margin: 6%;
 }
-.navB li{
-    color: white;
-    display: inline-block;
-    margin: 3%;
-    margin-top: 0%;
-    /* font-style: none;
-    color: white; */
-}
-
-/* .navB a{
-    text-decoration: none;
-    color: white;
-    padding-top: 3%;
-} */
