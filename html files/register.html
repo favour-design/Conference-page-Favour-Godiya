@@ -42,21 +42,23 @@
         </ul>
       </div>
       <div class="second">
-        <p class="name">Name</p>
-        <input class="box" type="text" name="" id="inA" placeholder="Full name">
-        <p class="name">Email</p>
-        <input class="box" type="email" name="Email" id="inB"  placeholder="Email address">
-        <p class="name">Number of Passes</p>
-        <select name="" id="inC" class="option">
-          <option value="1">1</option>
-          <option value="2">2</option>
-          <option value="3">3</option>
-          <option value="4">4</option>
-          <option value="5">5</option>
-        </select>
-        <p class="name">Comments</p>
-        <textarea name="" id="inD" cols="22" rows="3" class="boxA"></textarea>
-        <button class="button" onclick="purchaseGoods(); return false">PURCHASE</button>
+        <form action="" id="myform">
+          <p class="name">Name</p>
+          <input  class="box" type="text" name="" id="inA" placeholder="Full name" required >
+          <p class="name">Email</p>
+          <input class="box" type="email" name="Email" id="inB"  placeholder="Email address" required >
+          <p class="name">Number of Passes</p>
+          <select required name="" id="inC" class="option">
+            <option value="1">1</option>
+            <option value="2">2</option>
+            <option value="3">3</option>
+            <option value="4">4</option>
+            <option value="5">5</option>
+          </select>
+          <p class="name">Comments</p>
+          <textarea required name="" id="inD" cols="22" rows="3" class="boxA"></textarea>
+          <input type="submit" value="PURCHASE" class="button">
+        </form>
       </div>
     </div>
   </main>
@@ -72,7 +74,7 @@
       </nav>
     </div>
   </footer>
-  <script src="register.js"></script>
+  <script src="../js file/register.js"></script>
     
 </body>
 </html>
