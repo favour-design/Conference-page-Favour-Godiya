@@ -196,7 +196,13 @@
      text-decoration: none;
      color: white;
 }
+<<<<<<< HEAD:cssFiles/register.css
 
 .navbarB a:hover{
     color: #648880;
 }
+=======
+ .a:hover {
+    color: #293f50;
+}
+>>>>>>> 7659542bef7032520fb69af41c2e095037bdf39e:css files/register.css

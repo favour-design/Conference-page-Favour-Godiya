@@ -153,7 +153,12 @@
      text-decoration: none;
      color: white;
 }
+<<<<<<< HEAD:cssFiles/style1.css
 
 .navB a:hover{
     color: #648880;
+=======
+.a:hover {
+    color: #293f50;
+>>>>>>> 7659542bef7032520fb69af41c2e095037bdf39e:css files/style1.css
 }
