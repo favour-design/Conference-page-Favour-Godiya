@@ -159,9 +159,17 @@
     margin-right: 60%;
     color: #648880;
 }
-.a:hover {
-    color: #293f50;
+.navbar1 a:hover {
+    color: #648880;
 }
+.con:hover {
+    color: #648880;
+}
+.navbar2 a:hover {
+    color: #648880
+}
+
+
 
 
 
