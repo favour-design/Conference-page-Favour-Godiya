@@ -41,6 +41,7 @@
     font-size: 3em;
     /* padding-top: 3%; */
     padding-bottom: 3%;
+    font-weight: lighter;
 }
 .venue {
    background-image: linear-gradient(to right, #a1d3b0, #f6f1d3);
