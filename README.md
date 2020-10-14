@@ -7,6 +7,7 @@ Conference pages  linked  together
 ### Project Status
 
 ### Demo (Image)
+![A_Screenshot_of_this_project](  "This is a sample image.")
 
 ### Demo (Live Demo Link)
 
