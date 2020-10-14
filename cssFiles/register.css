@@ -146,10 +146,10 @@
 
 .button{
     font-size: 14px;
-    padding-left: 6%;
-    padding-right: 6%;
-    padding-top: 3%;
-    padding-bottom: 3%;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 5%;
+    padding-bottom: 5%;
     color: white;
     background-color:#648880;
     border: none;
@@ -160,7 +160,7 @@
 
 }
 .button:hover {
-    background-color: #648880;
+    background-color:#749c94;
 }
 
 .parentD{
