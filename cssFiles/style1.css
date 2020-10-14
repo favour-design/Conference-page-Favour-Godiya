@@ -85,6 +85,11 @@
     font-size: large;
 }
 
+.reg:hover{
+    background-color: white;
+    color: #648880;
+}
+
 .parentB{
     display: flex;
     padding-left: 20%;
