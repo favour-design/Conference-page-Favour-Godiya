@@ -26,6 +26,10 @@
     line-height: 1;
 } 
 
+.style:hover {
+    color: #729991;
+}
+
 .date{
     margin-left: 38%;
     color: #648880;
@@ -49,6 +53,10 @@
 .navbarA a{
     text-decoration: none;
     color: white;
+}
+
+.navbarA a:hover{
+    color: #729991;
 }
 
 .parentB{
@@ -187,4 +195,8 @@
  .navbarB a{
      text-decoration: none;
      color: white;
+}
+
+.navbarB a:hover{
+    color: #729991;
 }

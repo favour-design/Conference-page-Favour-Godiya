@@ -14,13 +14,10 @@
     margin-top: 1%;
 }
 
-.style{
-    padding-left: 0%;
-    padding-right: 50%;
-    padding-top: 3%;
-    color: white;
-    width: 7%;
-} 
+
+.style:hover{
+    color: #648880;
+}
 
 .date{
     margin-bottom: 1rem;
@@ -55,6 +52,10 @@
 .navbarA a{
     text-decoration: none;
     color: white;
+}
+
+.navbarA a:hover{
+    color: #648880;
 }
 
 .craft{
@@ -151,4 +152,8 @@
  .navB a{
      text-decoration: none;
      color: white;
+}
+
+.navB a:hover{
+    color: #648880;
 }
