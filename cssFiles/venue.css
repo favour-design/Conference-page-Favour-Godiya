@@ -1,0 +1,176 @@
+
+.navbar1 a {
+    text-decoration: none; 
+    color: white; 
+    
+} 
+.navbar1 li {
+    display: inline-block; 
+    margin-top: 10%;
+}
+.navbar1 ul li a {
+    text-align: right;
+    list-style: none;
+    
+
+} 
+.aug {
+    text-align: right;
+    margin-top: 20%;
+    color: #648880;
+    font-size: 1.3em;
+}
+.headers {
+    display: flex;
+   justify-content: center;
+}
+.header {
+    background-color: #293f50;
+}
+.go {
+    margin: 1rem;
+    margin-bottom: 10%;
+    font-size: 80%;
+}
+.con {
+    flex-basis: 1%;
+    margin-right: 20%;
+    margin-top: 3%;
+    color: white;
+    font-weight: lighter;
+    font-size: 3em;
+    /* padding-top: 3%; */
+    padding-bottom: 3%;
+    font-weight: lighter;
+}
+.venue {
+   background-image: linear-gradient(to right, #a1d3b0, #f6f1d3);
+   text-align: center;
+   font-size: 1.3em;
+   color: #888888;
+   /* padding: 3%; */
+   padding-left: 10%;
+   padding-right: 10%;
+   margin-bottom: 8%;
+}
+.ven {
+    font-size: 1.8em;
+    color: #648880;
+    margin-bottom: 0%;
+    margin-left: 10%;
+    font-weight: lighter;
+    padding-top: 4%;
+}
+.land {
+    /* margin-top: 0%; */
+    /* word-spacing: 10%; */
+    padding: 2%;
+     line-height: 1.7em;
+}
+.parentmap1 {
+    display: flex;
+    justify-content: center;
+    margin-left: 10%;  
+    margin-right: 10%;
+}
+.chi {
+    flex-basis: 1%; 
+}
+.theat {
+    color: #648880;
+    font-size: 145%;
+    font-weight: 400;
+    margin-bottom: 5%;
+}
+.state {
+    color: #888888;
+    font-size: 1.2em;
+    margin-bottom: 15%;
+}
+.chi a {
+   color: #648880;
+   font-size: 1.2em; 
+   text-decoration: none;
+}
+.tel {
+    color: #888;
+    font-size: 1.2em;
+}
+.map1 {
+    margin-left: 10%;
+}
+.parentmap2 {
+    display: flex;
+    justify-content: center;
+    margin-left: 10%;  
+    margin-right: 10%;
+    margin-top: 8%;
+    margin-bottom: 10%;
+}
+.four {
+    flex-basis: 1%; 
+    /* font-size: 150%; */
+    
+}
+
+.sea { 
+    color: #648880;
+    font-weight: 400;
+    margin-bottom: 5%; 
+    font-size: 151%;
+}
+.del {
+    color: #888888;
+    font-size: 1.2em;
+    margin-bottom: 15%;
+}
+.four a {
+    color: #648880;
+    font-size: 1.2em; 
+    text-decoration: none;
+}
+.map2 {
+    margin-left: 12%;
+}
+.tel1 {
+    color: #888;
+    font-size: 1.2em;
+}
+
+.navbar2 a {
+    text-decoration: none; 
+    color: white;    
+} 
+.navbar2 li {
+    display: inline-block; 
+    margin-top: 10%   
+}
+.navbar2 ul li a {
+    /* text-align: left; */
+    list-style: none;  
+} 
+.foots {
+    text-align: right;
+    background-color: #293f50;
+    padding-right: 10%;
+    padding-bottom: 2%;
+}
+.styles {
+    margin-right: 60%;
+    color: #648880;
+}
+.navbar1 a:hover {
+    color: #648880;
+}
+.con:hover {
+    color: #648880;
+}
+.navbar2 a:hover {
+    color: #648880
+}
+
+
+
+
+
+    
