@@ -2,15 +2,13 @@
 Conference-page-Favour-Godiya
 
 ## Project Description
-This is a project on a conference meeting on HTML held in Chicago. thios essence of this project is to shows the design template. we created the venue, the homepage and how to register for the program
-
-### Project Status
+This is a project for a conference meeting on HTML held at Chicago. The essence of this project is to develop a venue page, home page and register page for the conference.
 
 ### Demo (Image)
-![A_Screenshot_of_this_project](./image "venue page image.")
+![A_Screenshot_of_this_project](/images/venuePageImage.PNG "venue page image.")
 
 ### Demo (Live Demo Link)
-
+https://raw.githack.com/favour-design/Conference-page-Favour-Godiya/home-branch/htmlFiles/index.html
 
 ### Developed wit
 * HTML
@@ -21,9 +19,7 @@ This is a project on a conference meeting on HTML held in Chicago. thios essence
 * Visual Studio Code
 
 ## Functionalities
-This is just a site to great awareness about the HTML programme, its date and venue also included its it map direction.
-
-
+To create great awareness about the conference, easy access for others to get an accurate direction of the conference venue and register for the conference with ease.
 
 ### Sources
 This project is inspired by https://jolly-kalam-23776e.netlify.app/styledconferences/index.html
@@ -41,6 +37,6 @@ This project is inspired by https://jolly-kalam-23776e.netlify.app/styledconfere
 * MIT 
 
 ### Acknowledgement
-1. Mrs Chioma James [Github] (https://github.com/Chiomy)
-2. Mr Godwin Nwachukwu [Github] (https://github.com/Gnwin)
+1. Mrs Chioma James. [Github] (https://github.com/Chiomy)
+2. Mr Godwin Nwachukwu. [Github] (https://github.com/Gnwin)
 
