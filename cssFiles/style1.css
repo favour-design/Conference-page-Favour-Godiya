@@ -100,9 +100,9 @@
 
 
 .reg:hover{
+    color: #648880;
     background-color: white;
-    color: #293F50;
-    
+    transition: color 0.5s;    
 }
 
 .parentB{
